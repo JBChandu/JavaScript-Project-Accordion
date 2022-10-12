@@ -2,7 +2,7 @@
 
 ## **Project: Accordion**
 
-![Badge for Project-1](https://img.shields.io/badge/Javascript-Accordion-brightgreen "Style Street Landing Page")
+![Badge for Project-1](https://img.shields.io/badge/Javascript-Accordion-brightgreen "Accordion")
 
 ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Ineuron.ai-LCO-brightgreen)
 
